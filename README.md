@@ -9,6 +9,12 @@ The original PDF has two problems :
 
 This version fixes those problems: there are 9 medium labels and 12 small labels per page, and each type has its own page.
 
+## Download links
+
+Download PDF: https://github.com/drskullster/precious-plastic-labels/raw/master/Labels.pdf
+
+Download PDF and PSD: https://github.com/drskullster/precious-plastic-labels/archive/master.zip
+
 ## Export
 
 PSD source file is included. Every page are packed in one file and organized in layer group for small and medium labels.
